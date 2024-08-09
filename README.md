@@ -1,0 +1,1 @@
+Пример импорта переменной - TEST_VARIABLE, из модуля - project_dir/module_1/test_m1.py, при выполнении скрипта расположенного - project_dir/module_2/module_2_level_2/test_script.py, при помощи добавления абсолютного пути к корневому каталогу проекта в переменную - PATH.
